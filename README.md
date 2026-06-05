@@ -1,5 +1,28 @@
 # Quick Commerce Analytics Platform
 
+## Executive Dashboard
+
+![Executive Dashboard](screenshots/executive_dashboard.png)
+
+## Delivery Operations Dashboard
+
+![Delivery Dashboard](screenshots/delivery_dashboard.png)
+
+## Inventory Intelligence Dashboard
+
+![Inventory Dashboard](screenshots/inventory_dashboard.png)
+
+## Key Features
+
+- End-to-End SQL Database Design
+- Analytical SQL Views
+- Executive KPI Dashboard
+- Delivery Operations Analytics
+- Inventory Intelligence Monitoring
+- DAX Measures for Business KPIs
+- Interactive Slicers and Filters
+
+  
 ## Project Overview
 
 A complete business intelligence solution for quick-commerce operations in Coimbatore. This project simulates a dark-store based delivery network similar to Blinkit, Zepto, and Instamart using MySQL and Power BI.
